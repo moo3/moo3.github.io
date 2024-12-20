@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-          Modified to verify the build pipeline!
+          Let's see if Github Actions and Vercel Deploy play nice!
         </p>
         <a
           className="App-link"
